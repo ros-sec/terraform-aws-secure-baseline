@@ -10,7 +10,7 @@ Most configurations are based on [CIS Amazon Web Services Foundations v1.3.0] an
 See [Benchmark Compliance](./compliance.md) to check which items in various benchmarks are covered.
 
 ## Features
-
+ 
 ### Identity and Access Management
 
 - Set up IAM Password Policy.
